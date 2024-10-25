@@ -15,7 +15,7 @@ teleinfo-dev 是一个致力于标识解析体系建设的开源团队。我们�
 3. **id-guide**
    - **简介**：标识解析体系的使用说明文档，标识解析应用开发指南。
    - **链接**：[项目仓库链接](https://github.com/teleinfo-dev/id-guide)
-4. **id-link-mysql(预计9月份开源)**
+4. **id-link-mysql(预计10月份开源)**
    - **简介**：标识Mysql数据连接中间件，快速对接Mysql数据库到标识解析企业节点。
 
 ## 如何贡献
